@@ -1,6 +1,6 @@
 name: Android CI
 
-on:
+off:
   push:
     branches:
     - '1.*'
